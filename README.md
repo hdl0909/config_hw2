@@ -26,7 +26,7 @@ python VisualizationGraph.py
 # Выходные данные
 Программа сгененерирует код в формате PlantUML в указанный текстовый файл
 ## Пример
-![image](https://github.com/user-attachments/assets/9c9a85c4-9a8f-40d0-94f2-69b344197b23)
+![image](https://github.com/user-attachments/assets/d5278087-9e80-4846-9eb3-0fd901126889)
 # Тесты
 ```
 pytest -v
